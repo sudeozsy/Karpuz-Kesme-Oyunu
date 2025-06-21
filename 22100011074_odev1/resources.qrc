@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>2.png</file>
+        <file>3sn.png</file>
+        <file>back.jpg</file>
+        <file>konumlar.txt</file>
+        <file>kumsaati.png</file>
+        <file>skorlar.txt</file>
+        <file>1.png</file>
+    </qresource>
+</RCC>
